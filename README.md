@@ -3,6 +3,7 @@
 A simple and user-friendly Body Mass Index (BMI) Calculator built using Python with a graphical user interface (GUI). This app allows users to input their height and weight, calculates their BMI instantly, and shows their health category in a clean interface.
 
 ---
+
 ## 📚 Table of Contents
 
 - [Features](#features)
@@ -16,7 +17,7 @@ A simple and user-friendly Body Mass Index (BMI) Calculator built using Python w
 
 ---
 
-## 📌 Features
+## Features
 
 - Graphical User Interface using **Tkinter**
 - Input fields for height and weight
@@ -30,14 +31,14 @@ A simple and user-friendly Body Mass Index (BMI) Calculator built using Python w
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Tkinter (Python's standard GUI library)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -56,7 +57,7 @@ A simple and user-friendly Body Mass Index (BMI) Calculator built using Python w
 
 ---
 
-## 🧠 BMI Formula
+## BMI Formula
 
 The Body Mass Index is calculated using the formula:
 
@@ -66,7 +67,7 @@ BMI = weight (kg) / (height (m))²
 
 ---
 
-## ✅ Example
+## Example
 
 Let’s say you enter:
 
@@ -82,7 +83,7 @@ You are in the Normal weight range.
 
 ---
 
-## 🖼️ Screenshot
+## Screenshot
 
 ![BMI Calculator GUI Screenshot](screenshot.png)
 
@@ -90,19 +91,21 @@ You are in the Normal weight range.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 bmi-calculator/
 │
-├── bmi_calculator_gui.py   # Main GUI script
-├── screenshot.png          # GUI screenshot image
-└── README.md               # Project documentation
+├── bmi_calculator_gui.py     # Main Python script with GUI logic
+├── screenshot.png            # Screenshot of the GUI
+├── README.md                 # Project documentation
+├── LICENSE                   # License info (e.g., MIT)
+└── requirements.txt          # (Optional) Dependencies list if any
 ```
 
 ---
 
-## 📃 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
