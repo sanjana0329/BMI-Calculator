@@ -1,37 +1,39 @@
-# 🧮 BMI Calculator
+# 🧮 BMI Calculator (GUI)
 
-A simple and lightweight Body Mass Index (BMI) Calculator built using Python. This tool helps you calculate your BMI based on height and weight inputs and categorizes your BMI according to standard health ranges.
+A simple and user-friendly Body Mass Index (BMI) Calculator built using Python with a graphical user interface (GUI). This app allows users to input their height and weight, calculates their BMI instantly, and shows their health category in a clean interface.
 
 ---
-
 ## 📚 Table of Contents
 
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [How to Run](#-how-to-run)
-- [BMI Formula](#-bmi-formula)
-- [Example](#-example)
-- [Project Structure](#-project-structure)
-- [License](#-license)
+- [Features](#features)
+- [Technologies-Used](#technologies-used)
+- [How-to-Run](#how-to-run)
+- [BMI-Formula](#bmi-formula)
+- [Example](#example)
+- [Screenshot](#screenshot)
+- [Project-Structure](#project-structure)
+- [License](#license)
 
 ---
 
 ## 📌 Features
 
-- Takes input for height and weight
+- Graphical User Interface using **Tkinter**
+- Input fields for height and weight
 - Calculates BMI using the standard formula
-- Categorizes BMI into:
+- Displays BMI result with category:
   - Underweight
   - Normal weight
   - Overweight
   - Obesity
-- Clean and simple CLI interface
+- Real-time, easy-to-use interface
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Python 3
+- Tkinter (Python's standard GUI library)
 
 ---
 
@@ -42,3 +44,68 @@ A simple and lightweight Body Mass Index (BMI) Calculator built using Python. Th
    ```bash
    git clone https://github.com/your-username/bmi-calculator.git
    cd bmi-calculator
+   ```
+
+2. Run the script:
+
+   ```bash
+   python bmi_calculator_gui.py
+   ```
+
+   > Make sure you have Python 3 installed.
+
+---
+
+## 🧠 BMI Formula
+
+The Body Mass Index is calculated using the formula:
+
+```
+BMI = weight (kg) / (height (m))²
+```
+
+---
+
+## ✅ Example
+
+Let’s say you enter:
+
+- **Weight**: 70 kg  
+- **Height**: 1.75 m
+
+Then your BMI would be:
+
+```
+Your BMI is 22.86
+You are in the Normal weight range.
+```
+
+---
+
+## 🖼️ Screenshot
+
+![BMI Calculator GUI Screenshot](screenshot.png)
+
+> _Make sure the screenshot image file is named `screenshot.png` and placed in the root of your project directory._
+
+---
+
+## 📂 Project Structure
+
+```
+bmi-calculator/
+│
+├── bmi_calculator_gui.py   # Main GUI script
+├── screenshot.png          # GUI screenshot image
+└── README.md               # Project documentation
+```
+
+---
+
+## 📃 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to contribute, report issues, or suggest improvements!
