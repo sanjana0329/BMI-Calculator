@@ -85,7 +85,13 @@ You are in the Normal weight range.
 
 ## Screenshot
 
-![BMI Calculator GUI Screenshot](screenshot.png)
+BMI Calculator GUI Screenshot
+
+![Image](https://github.com/user-attachments/assets/a60f4428-fb63-432d-b648-9c442be1688c)
+![Image](https://github.com/user-attachments/assets/a1df45af-cb8d-4aeb-893f-056cbe2ae25b)
+![Image](https://github.com/user-attachments/assets/d3f37fc3-3d16-4322-ad80-fa19c4a9afd1)
+![Image](https://github.com/user-attachments/assets/1828c7ed-43c2-4d13-8592-77db1498c482)
+![Image](https://github.com/user-attachments/assets/c49855fe-0866-44fd-8c4c-2f197e7e327d)
 
 > _Make sure the screenshot image file is named `screenshot.png` and placed in the root of your project directory._
 
