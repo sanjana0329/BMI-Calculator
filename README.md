@@ -43,7 +43,7 @@ A simple and user-friendly Body Mass Index (BMI) Calculator built using Python w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/sanjana0329/BMI-Calculator.git
    cd bmi-calculator
    ```
 
@@ -100,7 +100,6 @@ bmi-calculator/
 ├── screenshot.png            # Screenshot of the GUI
 ├── README.md                 # Project documentation
 ├── LICENSE                   # License info (e.g., MIT)
-└── requirements.txt          # (Optional) Dependencies list if any
 ```
 
 ---
