@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator (GUI)
+# 🧮 BMI Calculator 
 
 A simple and user-friendly Body Mass Index (BMI) Calculator built using Python with a graphical user interface (GUI). This app allows users to input their height and weight, calculates their BMI instantly, and shows their health category in a clean interface.
 
