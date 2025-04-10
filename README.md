@@ -85,13 +85,27 @@ You are in the Normal weight range.
 
 ## Screenshot
 
-BMI Calculator GUI Screenshot
+> _Below are screenshots of the GUI application in action:_
 
-![Image](https://github.com/user-attachments/assets/a60f4428-fb63-432d-b648-9c442be1688c)
-![Image](https://github.com/user-attachments/assets/a1df45af-cb8d-4aeb-893f-056cbe2ae25b)
-![Image](https://github.com/user-attachments/assets/d3f37fc3-3d16-4322-ad80-fa19c4a9afd1)
-![Image](https://github.com/user-attachments/assets/1828c7ed-43c2-4d13-8592-77db1498c482)
-![Image](https://github.com/user-attachments/assets/c49855fe-0866-44fd-8c4c-2f197e7e327d)
+### 🟢 Main Interface
+
+Main Interface
+
+![Image](https://github.com/user-attachments/assets/a7c83cd7-8958-443b-ab72-089b26c62e14)
+
+
+### 🟡 Weather Data Displayed
+
+BMI Calculated
+
+![Image](https://github.com/user-attachments/assets/7768d838-75f2-4761-ae34-b5ea80e05327)
+
+![Image](https://github.com/user-attachments/assets/bb5361b0-a1bf-4dfc-b36b-f782d31b9530)
+
+![Image](https://github.com/user-attachments/assets/1b647be3-c6d3-4fc6-9860-904f35e99859)
+
+![Image](https://github.com/user-attachments/assets/c1c54d6e-c82e-49b6-868a-6d984a4486c5)
+
 
 
 ---
