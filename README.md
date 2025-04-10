@@ -93,7 +93,6 @@ BMI Calculator GUI Screenshot
 ![Image](https://github.com/user-attachments/assets/1828c7ed-43c2-4d13-8592-77db1498c482)
 ![Image](https://github.com/user-attachments/assets/c49855fe-0866-44fd-8c4c-2f197e7e327d)
 
-> _Make sure the screenshot image file is named `screenshot.png` and placed in the root of your project directory._
 
 ---
 
